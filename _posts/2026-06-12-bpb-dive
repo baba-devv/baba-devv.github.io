@@ -1,6 +1,18 @@
 ---
 layout: post
-title: "My First Post"
+title: "A peek into Bits per Byte (BPB)"
+date: 2026-06-12
 ---
 
-This is my first post, written entirely from the GitHub web interface. No local installation required!
+# **A peek into Bits per Byte (BPB)**
+
+**BPB (Bits per Byte)** is an eval/loss metric that is used usually when evaluating the inter LLM results, I recently found it in [Karpathy's Autoresearch project](https://github.com/karpathy/autoresearch)
+where its used by the Agent system to compare different models. 
+
+
+
+
+
+* Adding sample image for a check *
+
+![Can you see me !!](/assets/images/Bits per Character.png)
