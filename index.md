@@ -1,1 +1,5 @@
-# Welcome to my new blog
+---
+layout: home
+---
+
+Welcome to my corner of the internet.
