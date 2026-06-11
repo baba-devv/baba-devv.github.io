@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+title: "Mani's Blog"
+description: "My personal engineering/research blog."
+theme: minima
