@@ -2,20 +2,14 @@
   <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper">
-    <div class="footer-col-wrapper">
+    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem; padding: 20px 0;">
       
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name"></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
+      <div style="flex: 1; min-width: 250px;">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+      <div style="flex: 1; min-width: 250px;">
+        <p style="margin: 0; color: #828282;">{{ site.description | escape }}</p>
       </div>
       
     </div>
